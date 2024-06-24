@@ -1,0 +1,17 @@
+{
+  "name": "06.-rgb-to-hex",
+  "version": "1.0.0",
+  "main": "rgb-to-hex.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0"
+  }
+}
